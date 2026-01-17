@@ -23,6 +23,9 @@
       "Dermatology": "皮肤",
       "Rare disease": "罕见疾病",
       "Immunology": "免疫",
+      "Metabolic":"代谢",
+      "Endocrine":"内分泌",
+      "Neurology":"神经",
       "Other": "其他"
     },
   
